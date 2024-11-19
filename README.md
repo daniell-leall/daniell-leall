@@ -6,7 +6,7 @@ I'm a cybersecurity professional with expertise in **penetration testing**, **et
 
 On my [YouTube channel](https://www.youtube.com/@daniell_leall?sub_confirmation=1), I create content to help others learn about hacking techniques, cybersecurity tools, and best practices. Join me as we dive into the art and science of securing the digital world!  
 
-📸 You can also follow me on [Instagram](https://www.instagram.com/daniell.leall/) for insights, updates, and behind-the-scenes content from my cybersecurity journey.  
+📸 You can also follow me on [Instagram](https://www.instagram.com/daniell.leall/).  
 
 🌐 Here, you'll find repositories dedicated to:  
 - Security tools and scripts for ethical hacking.  
