@@ -28,62 +28,27 @@ Let’s connect, collaborate, and work together to make the digital space safer 
   </a>  
 </div>
 
-### 🤖 Languages and Technologies
+---
 
-<div class="tech-icons">
-    <img 
-        alt="HTML"
-        title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        alt="PHP" 
-        title="PHP"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-    />
-    <img 
-        alt="Git" 
-        title="Git"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-    <img 
-        alt="Bash" 
-        title="Bash"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://www.svgrepo.com/download/353478/bash-icon.svg" 
-    />
+### 🧰 Languages and Tools
+
+<div> 
+  <img alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/382713/windows-applications.svg" />
+  <img alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/354258/raspberry-pi.svg" />
+  <img alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/448221/docker.svg" />
+  <img alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/353478/bash-icon.svg" />
+  <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
+
+#
+
 <div style="margin-top: 20px;">
-    <img 
-        src="https://raw.githubusercontent.com/maxamin/maxamin/refs/heads/main/assets/github-snake.svg" 
-        alt="Snake animation"
-    />
+    <img src="https://raw.githubusercontent.com/maxamin/maxamin/refs/heads/main/assets/github-snake.svg" alt="Snake animation" />
 </div>
