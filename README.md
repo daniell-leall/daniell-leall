@@ -56,8 +56,8 @@ Let’s connect, collaborate, and work together to make the digital space safer 
 #
 
 <p align="left" style="display: flex; gap: 10px;">
-<img src="https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif" alt="Gif pixel art of two cats insade a house" style="width: 400px; height: auto;">
-<img src="https://i.pinimg.com/originals/9a/17/d1/9a17d1fd9b3854fc1d7bfd24f7a374a2.gif" alt="Gif pixel art of cars passing by" style="width: 400px; height: auto;">
+<img src="https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif" alt="Gif pixel art of two cats insade a house" style="width: 450px; height: auto;">
+<img src="https://i.pinimg.com/originals/9a/17/d1/9a17d1fd9b3854fc1d7bfd24f7a374a2.gif" alt="Gif pixel art of cars passing by" style="width: 450px; height: auto;">
 
 </p>
 
