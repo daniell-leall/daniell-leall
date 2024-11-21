@@ -52,3 +52,15 @@ Let’s connect, collaborate, and work together to make the digital space safer 
 <div style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/maxamin/maxamin/refs/heads/main/assets/github-snake.svg" alt="Snake animation" style="pointer-events: none;" />
 </div>
+
+#
+
+<p align="left" style="display: flex; gap: 10px;">
+  <img src="https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif" alt="Gif de uma animação colorida" style="width: 500px; height: auto;">
+  <img src="https://i.pinimg.com/originals/9a/17/d1/9a17d1fd9b3854fc1d7bfd24f7a374a2.gif" alt="Gif de uma animação de objetos se movendo" style="width: 500px; height: auto;">
+</p>
+
+
+
+
+
