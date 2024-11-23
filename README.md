@@ -38,6 +38,8 @@ Let’s connect, collaborate, and work together to make the digital space safer 
   <img alt="Raspberry Pi" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/354258/raspberry-pi.svg" />
   <img alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/448221/docker.svg" />
   <img alt="Bash" title="Bash" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/353478/bash-icon.svg" />
+  <img alt="PowerShell" title="PowerShell" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/373992/powershell.svg" />
+  <img alt="Cmd" title="Cmd" width="30px" style="padding-right: 10px;" src="https://www.svgrepo.com/download/143991/command-window.svg" />
   <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
