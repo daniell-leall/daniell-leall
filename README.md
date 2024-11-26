@@ -17,7 +17,7 @@ On my [YouTube channel](https://www.youtube.com/@daniell_leall?sub_confirmation=
 Let’s connect, collaborate, and work together to make the digital space safer and more resilient. 🚀  
 
 <div> 
-  <a href="https://www.youtube.com/@daniell_leall?sub_confirmation=1" target="_blank">
+  <a href="https://www.youtube.com/@prosecd?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/daniell.leall/" target="_blank">
